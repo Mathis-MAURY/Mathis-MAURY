@@ -43,7 +43,7 @@
   <h2>📊 Activité GitHub :</h2>
   <p>
     <a href="https://github.com/Mathis-MAURY">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mathis-MAURY&show_icons=true&theme=transparent&hide_border=true&title_color=1F8CEB&text_color=777777&icon_color=1F8CEB&cache_seconds=86400" alt="Statistiques GitHub" height="150px">
+      <img src="https://github-readme-stats.vercel.app/api?username=mathis-maury&show_icons=true&theme=transparent&hide_border=true&title_color=1F8CEB&text_color=777777&icon_color=1F8CEB&v=1" alt="Statistiques GitHub" height="150px">
     </a>
   </p>
 
