@@ -40,11 +40,6 @@
     Bachelor Systèmes d'Information - Institut Limayrac, Toulouse
   </p>
 
-<h2>📊 Activité GitHub :</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mathis-MAURY&show_icons=true&theme=transparent&hide_border=true&title_color=1F8CEB&text_color=777777&icon_color=1F8CEB" alt="Statistiques GitHub" height="150px">
-  </p>
-
   <h2>📫 Me contacter :</h2>
   <p>
     <a href="https://linkedin.com/in/mathis-maury-17a303227" target="_blank">
