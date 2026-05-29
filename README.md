@@ -29,9 +29,10 @@
 
   <h3>💼 Expériences :</h3>
   <p>
-    👨‍💻 <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>Institut Limayrac</em> (2025)<br>
-    🌱 <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>GreenJuice Développement</em> (2024)<br>
-    ⚙️ <strong>Développeur Logiciel (Stage)</strong> @ <em>DSI Université Paul Sabatier</em> (2023)
+     <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>Institut Limayrac</em> (2026)<br>
+     <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>Institut Limayrac</em> (2025)<br>
+     <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>GreenJuice Développement</em> (2024)<br>
+     <strong>Développeur Logiciel (Stage)</strong> @ <em>DSI Université Paul Sabatier</em> (2023)
   </p>
 
   <h3>🚀 Formation Actuelle :</h3>
