@@ -8,7 +8,7 @@
 
   <p>
     🎓 <strong>À la recherche d'une alternance en développement Full-Stack</strong><br>
-    dans le cadre de mon Master / Mastère (Rentrée 2026).
+    dans le cadre de mon Master (Rentrée 2026).
   </p>
 
   <h2>💻 Langages & Frameworks :</h2>
@@ -52,12 +52,6 @@
       <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
         alt="Portfolio" 
-      />
-    </a>
-    <a href="https://github.com/Mathis-MAURY" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-        alt="GitHub" 
       />
     </a>
     <a href="mailto:mathis.maury@limayrac.fr" target="_blank">
