@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Bonjour, moi c'est George Khitaridze</h1>
+  <h1>👋 Bonjour, moi c'est Mathis MAURY</h1>
   
   <p>
     Développeur Full-Stack basé à Toulouse, France 🇫🇷<br>
@@ -7,38 +7,58 @@
   </p>
 
   <p>
-    🎓 À la recherche d'une alternance en développement<br>
-    dans le cadre de mon Mastère Expert en Systèmes d'Information.
+    🎓 <strong>À la recherche d'une alternance en développement Full-Stack</strong><br>
+    dans le cadre de mon Master / Mastère (Rentrée 2026).
   </p>
 
-  <h2>💻 Stack principale :</h2>
+  <h2>💻 Langages & Frameworks :</h2>
   <p>
     <img 
-      src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,angular,mysql,python,java,cs" 
-      alt="Compétences" 
+      src="https://skillicons.dev/icons?i=php,laravel,js,vue,react,angular,python,java,cs" 
+      alt="Langages et Frameworks" 
     />
   </p>
 
-  <h3>🚀 Actuellement :</h3>
+  <h2>🛠️ Outils, BDD & DevOps :</h2>
+  <p>
+    <img 
+      src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,gitlab,linux" 
+      alt="Outils et Base de données" 
+    />
+  </p>
+
+  <h3>💼 Expériences :</h3>
+  <p>
+    👨‍💻 <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>Institut Limayrac</em> (2025)<br>
+    🌱 <strong>Développeur Web Full-Stack (Stage)</strong> @ <em>GreenJuice Développement</em> (2024)<br>
+    ⚙️ <strong>Développeur Logiciel (Stage)</strong> @ <em>DSI Université Paul Sabatier</em> (2023)
+  </p>
+
+  <h3>🚀 Formation Actuelle :</h3>
   <p>
     Bachelor Systèmes d'Information - Institut Limayrac, Toulouse
   </p>
 
+  <h2>📊 Activité GitHub :</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mathis-MAURY&show_icons=true&theme=transparent&hide_border=true&title_color=1F8CEB&text_color=777777&icon_color=1F8CEB" alt="Statistiques GitHub" height="150px">
+  </p>
+
   <h2>📫 Me contacter :</h2>
   <p>
-    <a href="https://www.linkedin.com/in/george-k-9726b7295/" target="_blank">
+    <a href="https://linkedin.com/in/mathis-maury-17a303227" target="_blank">
       <img 
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="LinkedIn" 
       />
     </a>
-    <a href="https://george-khitaridze.vercel.app/" target="_blank">
+    <a href="https://mathis-maury.vercel.app/" target="_blank">
       <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
         alt="Portfolio" 
       />
     </a>
-    <a href="mailto:george.khitaridze@limayrac.fr" target="_blank">
+    <a href="mailto:mathis.maury@limayrac.fr" target="_blank">
       <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail" 
