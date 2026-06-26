@@ -42,7 +42,7 @@
 
   <h2>📫 Me contacter / Mes projets :</h2>
   <p>
-    <a href="https://linkedin.com/in/mathis-maury-17a303227" target="_blank">
+    <a href="https://www.linkedin.com/in/mathis-maury-dev/" target="_blank">
       <img 
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="LinkedIn" 
