@@ -1,25 +1,89 @@
 <div align="center">
 
-# :wave: Salut, je suis Mathis Maury
+# 👋 Mathis Maury
 
-### :computer: Développeur Full-Stack • :round_pushpin: Toulouse, France
-
-Étudiant en **Master Systèmes d'Information**, je développe des applications web modernes avec un intérêt particulier pour le **backend**, les **API** et l'architecture logicielle.
-
-:dart: **À la recherche d'une alternance en développement Full-Stack (2026).**
+### Développeur Full-Stack • Toulouse 🇫🇷
 
 ---
 
-## :tools: Stack
+## 🏅 Certification visée
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,react,angular,python,java,cs,mysql,postgres,docker,git,github,linux" />
+### 🔥 AI-900 — Microsoft Azure AI Fundamentals
+
+<p>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="140" />
+</p>
+
+🎯 Préparation active à la certification **Microsoft AI-900**
+
+[![Microsoft Learn](https://img.shields.io/badge/Voir%20objectif%20AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
 ---
 
-## :mailbox: Me retrouver
+## 💻 Stack principale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-maury-dev/)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,linux,github,git,js,mysql" />
+</p>
+
+---
+
+## 🚀 Focus
+
+- Backend solide avec **Laravel / PHP**
+- Travail sous environnement **Linux**
+- Gestion de projet et versioning avec **GitHub**
+- Développement orienté **applications web robustes**
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mathis-maury.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathis.maury@limayrac.fr)
+
+</div><div align="center">
+
+# 👋 Mathis Maury
+
+### Développeur Full-Stack • Toulouse 🇫🇷
+
+---
+
+## 🏅 Certification visée
+
+### 🔥 AI-900 — Microsoft Azure AI Fundamentals
+
+<p>
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="140" />
+</p>
+
+🎯 Préparation active à la certification **Microsoft AI-900**
+
+[![Microsoft Learn](https://img.shields.io/badge/Voir%20objectif%20AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+
+---
+
+## 💻 Stack principale
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,linux,github,git,js,mysql" />
+</p>
+
+---
+
+## 🚀 Focus
+
+- Backend solide avec **Laravel / PHP**
+- Travail sous environnement **Linux**
+- Gestion de projet et versioning avec **GitHub**
+- Développement orienté **applications web robustes**
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mathis-maury.vercel.app/)
 
 </div>
