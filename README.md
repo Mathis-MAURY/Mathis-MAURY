@@ -12,7 +12,7 @@
 
 ## :tools: Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,react,angular,python,java,cs,mysql,postgres,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,python,java,mysql,docker,github,linux" />
 
 ---
 
