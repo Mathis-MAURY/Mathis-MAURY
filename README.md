@@ -14,8 +14,6 @@
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="140" />
 </p>
 
-🎯 Préparation active à la certification **Microsoft AI-900**
-
 [![Microsoft Learn](https://img.shields.io/badge/Voir%20objectif%20AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
 ---
