@@ -21,7 +21,7 @@
 ## 💻 Stack principale
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,linux,github,git,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,linux,github,git,js,mysql" />
 </p>
 
 ---
